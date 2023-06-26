@@ -50,6 +50,9 @@ body {
 .Bild1 {
   width: 50%;
 }
+.Bild2 {
+  width: 33%;
+}
 
 @media (max-width: 600px) {
 
@@ -105,5 +108,9 @@ header {
   
   .Bild1 {
   width: 50%;
+  }
+  
+  .Bild1 {
+  width: 33%;
   }
 }
