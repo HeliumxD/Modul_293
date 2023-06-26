@@ -47,6 +47,10 @@ body {
   background-color: #10101b;
 }
 
+.Bild1 {
+  width: 50%;
+}
+
 @media (max-width: 600px) {
 
 .grid {
@@ -97,5 +101,9 @@ header {
 
   body {
     background-color: #10101b;
+  }
+  
+  .Bild1 {
+  width: 50%;
   }
 }
