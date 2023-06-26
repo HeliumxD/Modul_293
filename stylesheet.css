@@ -28,7 +28,7 @@ main {
   background-color: #302a40;
   color: white;
   font-size: x-large;
-  font-family: Times New Roman;
+  font-family: "Times New Roman";
 }
 
 aside {
@@ -72,13 +72,13 @@ header {
     color:white;
     float: left;
     margin-top: 25px;
-    margin-left: 2fr;
+    margin-left: 2rem;
   }
   
   main {
     background-color: #302a40;
     color: white;
-    font-family: Times New Roman;
+    font-family: "Times New Roman";
     grid-column: span 1;
   }
   
