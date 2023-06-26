@@ -49,9 +49,11 @@ body {
 
 .Bild1 {
   width: 50%;
+  height: auto;
 }
 .Bild2 {
   width: 33%;
+  height: auto;
 }
 
 @media (max-width: 600px) {
@@ -108,9 +110,11 @@ header {
   
   .Bild1 {
   width: 50%;
+  height: auto;
   }
   
-  .Bild1 {
+  .Bild2 {
   width: 33%;
+  height: auto;
   }
 }
